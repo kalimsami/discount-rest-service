@@ -46,3 +46,10 @@ I have configured swagger tool to test the API. Please use below url on localhos
 
 Please note that given the listed timeframe, this API covers only happy path scenario to meet the requirements. 
 It is assumed that the request will be valid with all the required parameters to return the correct response.
+
+Also, attached Project structure screenshot to show the files used.
+
+IDE used: IntelliJ
+Java version: 1.8
+Spring framework: 5.1.6
+Swagger Tool: 2.7.0
