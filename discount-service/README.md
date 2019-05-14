@@ -40,7 +40,9 @@ I used swagger to create the document for this API.
 I added the required dependencies and then run below command:
 **mvn clean spring-boot:run**
 
-You can test the API on below url on localhost.
+I have configured swagger tool to test the API. Please use below url on localhost.
 
 **http://localhost:8080/swagger-ui.html**
 
+Please note that given the listed timeframe, this API covers only happy path scenario to meet the requirements. 
+It is assumed that the request will be valid with all the required parameters to return the correct response.
