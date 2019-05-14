@@ -50,6 +50,9 @@ It is assumed that the request will be valid with all the required parameters to
 Also, attached Project structure screenshot to show the files used.
 
 IDE used: IntelliJ
+
 Java version: 1.8
+
 Spring framework: 5.1.6
+
 Swagger Tool: 2.7.0
